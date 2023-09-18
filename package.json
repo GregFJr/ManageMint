@@ -1,24 +1,16 @@
 {
-  "name": "managemint",
+  "name": "employee-tracker",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple Employee Tracker application",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node main.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/GregFJr/ManageMint.git"
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.6.0"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/GregFJr/ManageMint/issues"
-  },
-  "homepage": "https://github.com/GregFJr/ManageMint#readme",
-  "dependencies": {
-    "express": "^4.18.2",
-    "inquirer": "^8.2.4"
-  }
+  "license": "ISC"
 }
