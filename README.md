@@ -21,7 +21,7 @@ Then follow the prompts to navigate the application.
 
 
 # License
-ManageMint is an open-source project licensed under the MIT License. For more details, see the LICENSE.md file.
+ManageMint is an unlicensed open-source project
 
 # Sreenshot 
 
