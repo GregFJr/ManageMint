@@ -21,3 +21,7 @@ Then follow the prompts to navigate the application.
 
 # License
 ManageMint is an open-source project licensed under the MIT License. For more details, see the LICENSE.md file.
+
+# Sreenshot 
+
+![screenshot](/screenshots/Screenshot%202023-09-17%20at%205.52.09%20PM.png)
