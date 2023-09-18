@@ -14,7 +14,6 @@ ManageMint is an employee management system designed to streamline and optimize 
 
 # Usage
 
-## Start the application with:
 - npm start:
 
 Then follow the prompts to navigate the application.
